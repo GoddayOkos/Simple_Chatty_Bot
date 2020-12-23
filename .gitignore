@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Problems/Balance checker/out/
+/Problems/Balance checker/out/production/classes/
+/Problems/The first position of the largest element/out/
+/Problems/The first position of the largest element/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
